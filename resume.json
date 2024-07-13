@@ -1,0 +1,132 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "Work Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "awards": "Awards & Certifications"
+  },
+  "basics": {
+    "name": "Deirdre Barg",
+    "email": "deirdrejbarg@gmail.com",
+    "phone": "702-408-6259",
+    "website": "",
+    "location": {
+      "address": "Austin, Texas"
+    }
+  },
+  "education": [
+    {
+      "institution": "Western Governors University ",
+      "location": "Austin, TX",
+      "studyType": "Bachelors of Science ",
+      "gpa": "4.0",
+      "startDate": "Sep 2022",
+      "endDate": "May 2025",
+      "area": "Software Engineering "
+    },
+    {
+      "institution": "Austin Community College",
+      "location": "Austin, TX",
+      "studyType": "Associates of Applied Science ",
+      "area": "Agriculture ",
+      "gpa": "4.0",
+      "startDate": "Sep 2020",
+      "endDate": "May 2022"
+    }
+  ],
+  "work": [
+    {
+      "company": "In n Out",
+      "location": "Austin, TX",
+      "website": "",
+      "startDate": "March 2021",
+      "endDate": "Present",
+      "highlights": [
+        "Manage daily operations, ensuring inventory accuracy,  and quality control.",
+        "Developed and implemented training programs to enhance customer service, and increase operational efficiency.",
+        "Analyze data to identify trends, adjust operations, and make decisions to achieve financial targets."
+      ],
+      "position": "Operations Manager"
+    },
+    {
+      "highlights": [
+        "Constantly took the initiative to lead shifts to expedite my path to management.",
+        "Trained and developed over 100  associates at multiple locations in one on one training sessions.",
+        " Accelerated team members' career progression, resulting in fast-track promotions."
+      ],
+      "company": "In n Out",
+      "position": "Training Specialist",
+      "location": "Austin, Texas",
+      "startDate": "Mar 2020",
+      "endDate": "March 2021"
+    },
+    {
+      "highlights": [
+        "Managed vineyard operations, creating and adhering to project timelines.",
+        "Delivered comprehensive project reports, including budget and timeline analyses.",
+        "Organized volunteer teams, ensuring operational efficiency and safety. "
+      ],
+      "company": "Solaro Estate Vineyard and Winery",
+      "location": "Austin, Texas",
+      "startDate": "Feb  2020",
+      "endDate": "Jan 2021",
+      "position": "Project Manager"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "React, Webflow, Figma, "
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Express, Java Springboot, Mongodb"
+      ],
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "AWS Elastic Beanstalk, AWS Lambda"
+      ],
+      "name": "Infrastructure"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Piper Chat",
+      "description": "A video chat app with a front end in react, back end in Django, and a email messaging service.",
+      "url": "http://piperchat.com",
+      "keywords": [
+        "Python, React, Salesforce"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "awarder": "In n Out University ",
+      "title": "Leadership and Management Certification",
+      "summary": "Conflict Resolution, Leadership and Team Dynamics, Financial Reporting and Analysis, Interviewing and Hiring ",
+      "date": "Apr 2023"
+    },
+    {
+      "title": "Outstanding Customer Service Award ",
+      "awarder": "In n Out",
+      "summary": "Recognition of outstanding customer service in the Texas Region ",
+      "date": "Oct 2021"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
